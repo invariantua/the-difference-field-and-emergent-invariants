@@ -24,7 +24,7 @@
 *.xdv
 
 # Build dirs
-build/
+#build/
 dist/
 tmp/
 out/

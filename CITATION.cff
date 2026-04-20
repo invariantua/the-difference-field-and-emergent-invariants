@@ -4,6 +4,7 @@ message: "If you use articles fromt this repository, please cite it."
 authors:
   - family-names: Durniev
     given-names: Vitalii
+    email: "invariantua@gmail.com"
 year: 2026
 repository-code: "https://github.com/invariantua/the-difference-field-and-emergent-invariants-research/"
 license: "CC-BY-4.0"
